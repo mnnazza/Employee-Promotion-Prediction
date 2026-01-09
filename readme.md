@@ -77,5 +77,5 @@ This project is created for learning and practice purposes
 
 The dataset is used strictly for educational analysis
 
-**Author**
-Munazzah Fatima
+**Author: **
+Munazza Fatima
